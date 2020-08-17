@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning architecture for large-scale web services
 
 <!--
 **mataeLee/mataeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
