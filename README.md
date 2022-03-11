@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning architecture for large-scale web services
+### 🌱 I’m currently learning clean-architecture
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mataeLee)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mataeLee/mataeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
