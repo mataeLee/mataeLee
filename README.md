@@ -1,6 +1,6 @@
 ### 🌱 I’m currently learning clean-architecture 
-[link](https://parallel-cornucopia-5d2.notion.site/Clean-architecture-0492782ed7b54ad294d3ebfdb194efca)  
-[Github](https://github.com/QuarterBread/Clean-Architechure)
+[Notion](https://parallel-cornucopia-5d2.notion.site/Clean-architecture-0492782ed7b54ad294d3ebfdb194efca) - personal  
+[Github](https://github.com/QuarterBread/Clean-Architechure) - study team  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mataeLee)](https://github.com/anuraghazra/github-readme-stats)
 <!--
