@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning clean-architecture 
+### 🌱 I’m currently studying clean-architecture with quarterbread team
 personal - [Notion](https://parallel-cornucopia-5d2.notion.site/Clean-architecture-0492782ed7b54ad294d3ebfdb194efca)  
 study team - [Github](https://github.com/QuarterBread/Clean-Architechure)  
 
